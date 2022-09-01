@@ -24,3 +24,4 @@ const swiper = new Swiper(".swiper", {
   //     el: ".swiper-scrollbar",
   //   },
 });
+alert("semua yang disini gak asli, OK");
